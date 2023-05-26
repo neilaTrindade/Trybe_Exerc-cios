@@ -1,1 +1,1 @@
-# trybe-exercícios
+Repositório Exercícios da Trybe

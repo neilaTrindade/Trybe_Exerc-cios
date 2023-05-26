@@ -1,1 +1,1 @@
-# Trybe_Exerc-cios
+# trybe-exercícios
